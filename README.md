@@ -7,7 +7,7 @@ Humans are more concered with the weather in their immediate vicinity, and as th
 of a region decreases, so too will the number of weather stations. 
 The vector visualization below displays the location of all weather stations in Canada. 
 Notice the decrease in weather station density as the latitude increases. 
-This distribution could inadvertently comprimise climate models that rely on the observations 
+This distribution could inadvertently comprimise climate models that are based on the observations 
 from these weather stations. 
 
 
