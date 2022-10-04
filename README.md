@@ -13,6 +13,5 @@ from these weather stations.
 
 <img src="images/CA_WEATHER.JPG">
 
-After the presentation I rendered a simalar map in ArcCatalog with an ample projection.
-
+After the presentation I rendered a simalar map in ArcCatalog with a different projection.
 <img src="images/Canada_Station.jpg">
