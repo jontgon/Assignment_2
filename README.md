@@ -15,6 +15,6 @@ from these weather stations.
 
 
 
-After the presentation I rendered a simalar map in ArcMap with a different projection, color 
-coded provinces, and graticules lableing latitude and longitude.
+After the presentation I rendered another vector visualization in ArcMap (shown below) with a
+different projection, color coded provinces, and graticules lableing latitude and longitude.
 <img src="images/Canada_Station.jpg">
