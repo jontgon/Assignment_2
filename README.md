@@ -15,4 +15,4 @@ from these weather stations.
 
 After the presentation I rendered another vector visualization in ArcMap (shown below) with a
 different projection, color coded provinces, and graticules lableing latitude and longitude.
-<img src="images/Canada_Station.jpg">
+<img src="images/Canada_Station.jpg" >
