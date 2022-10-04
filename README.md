@@ -13,5 +13,8 @@ from these weather stations.
 
 <img src="images/CA_WEATHER.JPG">
 
-After the presentation I rendered a simalar map in ArcCatalog with a different projection.
+
+
+After the presentation I rendered a simalar map in ArcMap with a different projection, color 
+coded provinces, and graticules lableing latitude and longitude.
 <img src="images/Canada_Station.jpg">
